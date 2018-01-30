@@ -1,1 +1,1 @@
-"Hola, Ramis!"
+<% Response.Write("Hola mundo") %>
