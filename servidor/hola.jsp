@@ -1,5 +1,5 @@
 <html>
 <body>
-<% out.println("Hola, Eclipse!"); %>
+<% out.println("Hola, Windows!"); %>
 </body>
 </html>
