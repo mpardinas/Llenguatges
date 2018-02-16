@@ -1,3 +1,3 @@
 <?php
-	echo "Hola, Windows!";
+	echo "Hola, Visual Studio!";
 ?>
